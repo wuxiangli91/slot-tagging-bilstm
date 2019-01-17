@@ -1,0 +1,1000 @@
+那么 五里镇双坪村 有望 在 六场 比赛 之内 结束 这个 系列赛
+O Location O O O O O O O O
+只有 4月19日1946年 才 和 丈夫 相聚
+O Other.Time O O O O
+安古尔旺 穿着 深 V 亮相
+Person O O O O
+李泓翰 首先 指出
+Person.Athlete O O
+长堰镇高楼钱 人
+Location O
+并且 很 有 可能 引进 一位 塞浦路斯共和国 球员
+O O O O O O Location.Country O
+( 记者 汪先烺 ) 链接 : 安沛省 决定 开展 向 最 美女 教师 杜亚伟 学习 活动 郑志明 同志
+O Other.Title Person O O O Location.Province O O O O O Other.Title Person O O Person O
+科林环保 、 常德卓越电子商务有限公司 、 景德镇市昌派服饰有限公司 、 塞力斯 、 石家庄志明铝业有限公司 、 向日葵装饰公司 、 杭州前进齿轮箱集团股份有限公司 及 网宿科技股份有限公司 等 8 家 银行 的 首套 房贷 最低 利率 可 打 8.5 折
+Organization.Company O Organization.Company O Organization.Company O Organization.Company O Organization.Company O Organization.Company O Organization.Company O Organization.Company O O O O O O O O O O O O O
+汪元吉 自 曝 未来 老婆 条件 近年来
+Person O O O O O O
+超过 46000 名 工人 参与 了 鹅湖镇鹅湖苑 和 运动员 村 的 建设
+O O O O O O Location O O O O O
+乔治敦国际机场 完工 开放
+Location.Structure.Airport O O
+徐州恒融立信房产经纪有限公司 存款 利率 调整 通报 显示
+Organization.Company O O O O O
+她 曾经 在 圣惠南路西兴村6巷 某 医院 免费 整形 并 征婚
+O O O Location O O O O O O
+1980年 小 长假 铁路运输 期限 为 2004年底
+Other.Time O O O O O Other.Time
+公司 现金 及 发行 股份 购买 自然人 邱绮雯 、 瓦尔萨诺 、 陈林波 、 孙雪玉 及 姆霍格诺 合计 持有 的 新兴际华集团 100% 股权 暨 关联 交易 事项 获得 有 条件 通过
+O O O O O O O Person O Person O Person O Person O Person O O O Organization.Company O O O O O O O O O O
+一年到头 只有 祖父母节 和 世界邮政日 这 几天 可以 休息
+O O Other.Event.Festival O Other.Event.Festival O O O O
+是 一种 长期以来 成就 西关街城庙胡同 发展 大业 的 拼搏 苦干 精神 的 回归
+O O O O Location O O O O O O O O
+秦淮档案局 “ 五一 ” 隆重推出 了 “ 超值 豪华 蜜月游 ” 产品
+Organization.Government O O O O O O O O O O O
+说 你 送 荆歌 的 壶 蛮 好
+O O O Person O O O O
+孟建柱 率领 秋收起义 部队 进军 慈城镇半浦虹星村乍山街
+Person.Politician O O O O Location
+位于 钟村镇祈福新村蝶舞轩5街 和 公园街二巷 之间
+O Location O Location O
+目前 综合 实力 较强 的 国家 有 布隆迪 、 意大利 、 卡塔尔国 、 世纪路电业四区
+O O O O O O O Location.Country O Location.Country O Location.Country O Location
+依然 将 基金 份额 分成 预期 收益 与 风险 不同 的 两级 份额 : 即 湖北天衍瑞泰文化传播有限公司 优先 和 巴雅斯
+O O O O O O O O O O O O O O O Organization.Company O O Person
+由 库拉索 电视剧 《Friends》 的 总导演 李保阳 负责 担任 颁奖嘉宾
+O Location.Country O Other.Product O Other.Title Person O O Other.Title
+同期 还 将 举办 陈家桥镇中峰寺村 建筑 与 室内设计 高峰论坛 、 菲林盖 国际 室内设计 双年展 、 装饰 材料 精品展 、 “ 设计 之 都 ” 祖瓦拉 经典 设计 一日游 等 一系列 论坛 、 展览 、 交流活动
+O O O O Location O O O O O Location.City O O O O O O O O O O O O O Location.City O O O O O O O O O O
+他 的 袖标 一度 被 剥夺 给 了 苏晓敏
+O O O O O O O O Person
+在 叙利亚 市场 上 也 是 唯一 有 能力 提供 全系列 热暖 产品 的 品牌
+O Location.Country O O O O O O O O O O O O O
+她 放弃 了 沙茨克 某 外企 经理 的 职务
+O O O Location.City O O O O O
+1962年
+Other.Time
+得知 吴吾梅 已经 收到 了 钱包 的 快件
+O Person O O O O O O
+二人 一先 一后 发出 这样 的 微博 令人 猜测 两人 两年 恋情 今日 终结 了
+O O O O O O O O O O Other.Time O Other.Time O O
+2005年10月
+Other.Time
+对 马达加斯加 的 比赛 最 关键
+O Location.Country O O O O
+而 旧蕾丝色 高棉 却成 了 和平 的 障碍
+O Other.Color O O O O O O
+在 埃滕海姆 召开 了 贯彻落实 中央 巡视 工作 规划 推进 会
+O Location.City O O O O O O O O O
+是 咱 国家特区 韩城 人
+O O Location.Province Location.City O
+通辽市科尔沁区第一人民医院 副 院长 王文姣 教授 希望
+Location.Structure.Hospital O O Person O O
+在 战斗机 的 保护 下 转至 花莲 乌汶叻差他尼机场 或 美军 的 航空母舰 上 ; 航空 安保 分公司 将 加大 出租车 站 调度 力度
+O O O O O O O Location.Structure.Airport O O O O O O O O O O O O O O O
+为 岩口铺镇水花村 老 工业 基地 科学 发展 积累 新 经验
+O Location O O O O O O O O
+隆坊镇贝尔店村 未经 批准 非法 占地 764 亩
+Location O O O O O O
+号召 大观镇梅花村8组 人民 在 每年 2006年大年初一 都 要 进行 经常性 的 植树造林 运动
+O Location O O O Other.Time O O O O O O O
+9:55 他 通过 《非你莫属》 节目组
+Other.Time O O Other.Product O
+几内亚 飞机 还 撞 上 过 兔子 、 袋鼠 、 龟 、 狗 和 狐狸 等
+Location.Country O O O O O O O O O O O O O O O
+刘茜茜 的 球队 计划 斥资 5000 万 南斯拉夫第纳尔 引进 尼日尔 国脚
+Person O O O O O O Other.Currency O Location.Country O
+” 竹腰正晴 说
+O Person O
+古斯塔沃 受伤 无法 坚持 被 弗雷德-万维利特 换下
+Person.Athlete O O O O Person.Athlete O
+隶属于 大西洋 舰队 的 4 艘 “ 俄亥俄 ” 级 战略 导弹 核潜艇 已经 离开 位于 大西洋 的 江布尔州 金斯湾 的 海军 潜艇 基地
+O O O O O O O O O O O O O O O O O O Location.Province O O O O O
+探访 正在 两校 就读 的 堪察加边疆区 高考 文理 状元 布盖里 和 万东林
+O O O O O Location.Province O O O Person O Person
+带 着 台南应用科技大学 继续 向前
+O O Organization.Education.Institution O O
+汨罗市政府 的 法官 中村智 表示
+Organization.Government O Other.Title Person O
+亚心网 记者 張廷柱 摄 亚心网讯 ( 记者 橋川裕之穆尔布 ) “ 我 没想到 他 说 着 说 着 就 打 了 我 一拳
+Other.Product Other.Title Person O Other.Product O Other.Title Person O O O O O O O O O O O O O O
+昨天下午3:30
+Other.Time
+这些 优势 都 不是 厄立特里亚 一时 能 匹敌 的
+O O O O Location.Country O O O O
+四川新闻网 岑山市 2005年8月 讯 ( 安田善三郎西禪文璉 记者 陈井泉 ) 18 岁 的 王京镇王京 女孩 赛莱罗娃
+Other.Product Location.City Other.Time O O Person Other.Title Person O O O O Location O Person
+二十四日早上八点三十五分
+Other.Time
+” 李燕生 坦然 透露
+O Person O O
+光大银行 昨日 出现 的 这笔 诡异 交易 令 不少 业界 人士 想起 了 前不久 才 刚刚 通报 的 西南证券 副总裁 季敏波 “ 乌龙 指 ” 事件
+Organization.Company Other.Time O O O O O O O O O O O O O O O O Organization.Company Other.Title Person O O O O O
+这次 “ 乱建 别墅 ” 的 “ 莲花 洞 景区 ” 位于 格劳宾登州 施塔塔伦多尔夫 中华北路
+O O O O O O O O O O O O Location.Province Location.City Location
+不像 马云武 那样 遁迹山林 、 化 於 自然 之中
+O Person O O O O O O O
+上饶县人民政府 目前 并 没有 出台 相关 政策
+Organization.Government O O O O O O
+3月20日
+Other.Time
+截至 9月29日
+O Other.Time
+奥斯特罗夫 时间 2003年 消息
+Location.City O Other.Time O
+哼唱 着 日渐 成熟 的 《反光》
+O O O O O Other.Product
+众多 马加斯 市民 赶来 为 “ 平民 英雄 ” 巴图伊利 送行
+O Location.City O O O O O O O Person O
+辽沈晚报 新华网 田坎乡青杠村 2000年8月 电 ( 记者 大塚正霍德奥卢吉尔 ) 斜阳街26-26(双号) 附近 10月 左右 发生 一起 油库 爆炸 事故
+Other.Product O Location Other.Time O O Other.Title Person O Location O Other.Time O O O O O O
+谢敏捷 身上 洋溢着 这个 物质 至上 的 时代 所 稀缺 的 单纯 和 向上 的 力量
+Person O O O O O O O O O O O O O O O
+西斯科公司 、 人民日报 、 牡丹江市德艺音乐教育咨询有限公司 、 中国日报 、 光明日报 、 经济日报 等 近百家 主流 媒体 将 跟踪报道 此次 颁奖 盛况
+Organization.Company O Other.Product O Organization.Company O Other.Product O Other.Product O Other.Product O O O O O O O O O
+犯罪 嫌疑人 张亦华 经营 的 大石桥市长虹耐火材料有限公司 、 大庆市华盈投资有限公司 、 咆棵卸文化传媒有限公司 、 郑州爱心万货电子商务有限公司 、 俊逸科技有限责任公司 涉嫌 虚开 增值税 专用发票
+O O Person O O Organization.Company O Organization.Company O Organization.Company O Organization.Company O Organization.Company O O O O
+韓愈 在 和平路三巷 以 色相 诱骗 方式
+Person O Location O O O O
+” 雅虎体育 讯 梅奥 时间 5月3日
+O Other.Product O Location.City O Other.Time
+中国国际中小企业博览会事务局 第九期 学员
+Organization.Government O O
+汤巍 一会儿 和 惠侨 上演 比武招亲
+Person O O Person O O
+或者 到 窗明几净 的 木垒烧烤 去 动动 刀叉
+O O O O Location.Restaurant O O O
+马鞍山路先锋镇开发区 、 货场道 、 永丰乡谭受村 、 茅坪镇阳溪村吕村镇吕村集村 等线 采用 动车组 列车 重联 等 方式 尽力 增加 输送 能力
+Location O Location O Location O Location O O O O O O O O O O O
+以 2 比 0 战胜 苏胡姆 选手 卡库塔
+O O O O O Location.City O Person.Athlete
+2点
+Other.Time
+规模 达 550075.5 万元 ; 4月30日 发行 了 13 款 产品
+O O O O O Other.Time O O O O O
+” “ 2009 非凡 女人 年度 盛典 ” 日前 在 博泰夫格勒 举行
+O O O O O O O O O O Location.City O
+维滕贝格 的 高校 中 都 有 一些 特色 明显 的 专业
+Location.City O O O O O O O O O O
+在 大岗镇四棵树街 修建 流马镇 就是 典型 案例
+O Location O Location O O O
+出版 了 莱芜市安全生产监督管理局 马恩列斯 着 作 编译局 编译 的 《列宁全集》 共 39 卷
+O O Organization.Government O O O O O O Other.Product O O O
+其 行为 违反 了 《中华人民共和国治安管理处罚法》 第四十七条 的 规定
+O O O O Other.Product O O O
+新疆维吾尔自治区知识产权局 副秘书长 、 高级 婚姻家庭 咨询师 李士貞 表示
+Organization.Government Other.Title O O O O Person O
+总 奖金额 高达 134 万 伯利兹元 的 WTA 一级 赛事 - - 马尔代夫共和国 公开赛 开始 首日 角逐
+O O O O O Other.Currency O O O O O O Location.Country O O O O
+即 高平市 的 器官移植 中心
+O Location.City O O O
+对于 下面 的 基金经理
+O O O Other.Title
+据 甘肃省体育局 巡逻 船 确认
+O Organization.Government O O O
+如果 我 不再 回 掘进队
+O O O O Organization.Sports.Team
+5月18日 的 授课 费用 高达 900 港币
+Other.Time O O O O O O
+与 斯特拉斯堡 进行 两场 热身赛
+O Organization.Sports.Team O O O
+该 公司 与 吴泽康 联系
+O O O Person O
+在 外观 方面 2012 款 比亚迪S7 ( 车型 配置 图片 报价 ) 进行 了 一些 细微 的 改变
+O O O O O Other.Product.Car O O O O O O O O O O O O
+后者 上 一轮 大逆转 卫冕冠军 巴舒亚伊
+O O O O O Person.Athlete
+作为 雅安古道天叶茶业有限公司 的 基地
+O Organization.Company O O
+请 伊势市 支部 派 两个 人 出席会议
+O Location.City O O O O O
+截至 本月1日
+O Other.Time
+廉江市卫生局 副厅长 鲍国明 表示
+Organization.Government Other.Title Person O
+何彼得 也 对 蟒 河口 水库 工程施工 过程 中 的 安全 、 质量 、 进度 等 提出 了 具体 要求
+Person O O O O O O O O O O O O O O O O O O O
+代胡克省 知名 企业家 山东龙大肉食品股份有限公司 董事长 崔广荣 先生 捐资助教
+Location.Province O O Organization.Company O Person O O
+朝鲜民主主义人民共和国 人 此前 只有 9 场 洲际 赛事 主哨 经验
+Location.Country O O O O O O O O O
+枣庄市峄城区底阁镇人民政府 作出 终审 裁定
+Organization.Government O O O
+三关乡北廖村 地震 4月1日
+Location O Other.Time
+是 以 比里利 的 老家 桃花坞路桃花坞新村(11区) 命名
+O O Person O O Location O
+花儿 朵朵 百强 突围 赛 100 进 40 将 在 本周五、本周六晚上 金鹰纪实频道 播出
+O O O O O O O O O O Other.Time Other.Product O
+徐美珠 还 宣布 7日 要 在 站前路 举办 “ 留史镇耿庄 之友 ” 会议
+Person O O Other.Time O O Location O O Location O O O
+近 4月10日
+O Other.Time
+但 就 在 阮丰盛 因为 一系列 门 事件 而 使得 人气 与 想象 遭受 严重 打击 之 时
+O O O Person.Artist.Actor O O O O O O O O O O O O O O
+石家庄天楚商贸有限公司 发 ( 赵健阳 摄 ) 商报 讯 ( 记者 赵文芬 通讯员 汤新国 ) 正值 周一下午
+Organization.Company O O Person O O Other.Product O O Other.Title Person Other.Title Person O O Other.Time
+下午2时50分
+Other.Time
+沈阳师范大学附属学校 还 将 为 国内 彩票 管理系统
+Organization.Education.Institution O O O O O O
+昌乐县金融工作办公室 首席汽车分析师 馬伯樂 ( 微博 ) 表示
+Organization.Government Other.Title Person O O O O
+记者 要 离开 时
+Other.Title O O O
+雅虎体育 讯 夏南军 在 欧洲杯 C 组 第二轮 小组赛 中 任意球 直接 破门
+Other.Product O Person O O O O O O O O O O
+佛得角 近日 出台 坦桑尼亚联合共和国 食品质量 安全法
+Location.Country Other.Time O Location.Country O O
+毛艺 的 经纪人 透露
+Person.Athlete O O O
+与 谢茜嘉·苏佐 “ 一姐 ” 之争 败北 近日
+O Person.Artist.Actor O O O O O O
+恐怕 拉脱维亚共和国 就 只能 提前 回家
+O Location.Country O O O O
+本报讯 ( 记者 卡里迪 ) 近日
+O O Other.Title Person O O
+女 民警 当 起 “ 临时 妈妈 ” 初 被 解救 时
+O Other.Title O O O O O O O O O O
+对 拉科鲁尼亚 “ 斩立决 ” 是 他们 唯一 的 目标
+O Organization.Sports.Team O O O O O O O O
+泰国 前 总统 李沛瑶 在 结束 政治 生涯 之后
+Location.Country O O Person.Politician O O O O O
+每个 机库 投资额 介乎 5000 万至 6000 万 印度尼西亚卢比盾
+O O O O O O O O Other.Currency
+2005年 再度 由 24000 英尺 降低 高度
+Other.Time O O O O O O
+而 今年 的 计划 为 120 亿 拉脱维亚拉特
+O O O O O O O Other.Currency
+三钢闽光 旗下 控制 的 艺术品 信托 基金 产品 还 包括 与 天津维迈商贸有限公司 合作 发行 的 “ 邦 文 传家宝 ”
+Organization.Company O O O O O O O O O O Organization.Company O O O O O O O O
+他 进入 北京物资学院 学习
+O O Organization.Education.Institution O
+还有 一个 共产党员 如何 对待 贡献 与 索取 的 问题
+O O Other.Title O O O O O O O
+长葛疗郧簇科技有限公司 这款 4 速 变速器 的 表现 堪称 经典
+Organization.Company O O O O O O O O
+如 《民族问题译丛》 、 《马克思恩格斯论工会》 、 《马克思恩格斯论报刊》 、 《马克思恩格斯论教育》 、 《马克思恩格斯军事文选》 、 《斯大林文选》 等
+O Other.Product O Other.Product O Other.Product O Other.Product O Other.Product O Other.Product O
+最近 林摩理子 负面新闻 缠身
+O Person.Artist.Actor O O
+的里雅斯德 3 号 航站楼 聚满 了 热情 的 球迷
+Location.Structure.Airport O O O O O O O O
+沙碧 5 - 4 进入 发球 胜赛局
+Person O O O O O O
+一旦 这笔 交易 达成 哈德斯菲尔德 至少 可以 省下 400 万 的 工资 开销
+O O O O Organization.Sports.Team O O O O O O O O
+” 萬錫珩 说
+O Person O
+中建投信托 相关 人员 正在 介绍 节能产品 的 优点 : “ 这 款 产品 的 能效 是 一级
+Organization.Company O O O O O O O O O O O O O O O O
+5月1日8:00-11:00 的 升职 无望 了
+Other.Time O O O O
+美国万通金融集团 针对 雷克萨斯RX 点火 线圈 存在 的 质量 问题
+Organization.Company O Other.Product.Car O O O O O O
+成都周游国际旅行社有限责任公司 记者 从 佛山顺德农商行 了解 到
+Organization.Company O O Organization.Company O O
+美溪乡人民政府 表示
+Organization.Government O
+却 似 酷夏 里 的 习习 凉风 收到 云山镇大宋格庄村 观礼 请柬
+O O O O O O O O Location O O
+根据 重庆市食品药品监督管理局 工作 部署 要求
+O Organization.Government O O O
+昨日下午 进行 例行 演练
+Other.Time O O O
+社塘坡乡社塘坡村 通过 高起点 推进 GreenergyFuelsHoldings公司 标准化 生产
+Location O O O Organization.Company O O
+仅 有 8 家 天津维迈商贸有限公司 和 两家 博文迪诺教育科技有限责任公司 仍 未 提交 该 数据
+O O O O Organization.Company O O Organization.Company O O O O O
+在 4月29日 召开 的 绿山城 国际 会议 上
+O Other.Time O O Location.City O O O
+这使 航班 起降 量 已 趋 饱和 的 深圳国际机场 、 帕尔马颂圣若安机场 两大 机场 运力 有 了 拓展 空间
+O O O O O O O O Location.Structure.Airport O Location.Structure.Airport O O O O O O O
+就 租借 回 了 意大利共和国
+O O O O Location.Country
+零点 研究 咨询 集团 发布 南奥塞梯 青年 群体 饮酒 行为 调查 研究 报告
+O O O O O Location.Country O O O O O O O
+把 已经 是 三个 孩子 母亲 的 陈彦妃 的 年龄 暴露无遗
+O O O O O O O Person.Artist.Actor O O O
+《 关于 印发 〈 5月15日 拉腊州 [ 2005 ] 32 号 ) 文件 中 规定 的 新版 《 保险法 》 大纲 和 教材 将 推迟 出版 、 使用
+O O O O Other.Time Location.Province O O O O O O O O O O O O O O O O O O O O O O
+瑞典王国 的 GDP 占 世界 GDP 仅为 8% 多一点
+Location.Country O O O O O O O O
+设想 与 莫斯科斯巴达 的 交易 : 加索尔 换 约什 - 方公權 这是 直截了当 的 大 前锋 与 大 前锋 互换 的 交易
+O O Organization.Sports.Team O O O O O O O Person O O O O O O O O O O O
+赖先华 说 女儿 张东志 总是 催 他 结婚
+Person O O Person O O O O
+觉得 虽然 范欣 的 做法 有些 心狠
+O O Person O O O O
+政协韶关市委员会 、 国家商用密码管理办公室 、 中华人民共和国国家市场监督管理总局 、 吴江审计局 、 庆阳市人力资源和社会保障局 有关 负责人 参加 了 会见
+Organization.Government O Organization.Government O Organization.Government O Organization.Government O Organization.Government O Other.Title O O O
+翟家所乡上观音社 : C 罗 输球 后 失声痛哭 灯塔 时间 4月29日 新圩镇六桂村 对 庙前镇芷溪村西街路 的 比赛 将 在 斯威士兰王国 的 皮祖洛 进行
+Location O O O O O O Location.City O Other.Time Location O Location O O O O Location.Country O Person O
+不能 说 平原师范附属小学 不 具备 惊人 的 魄力
+O O Organization.Education.Institution O O O O O
+而 4月29日
+O Other.Time
+” 日内瓦州 以外 的 考生 必须 在 省市 自治区 招办 规定 的 时间 内到 学籍 或 户口 所在 的 市 、 县 招办 参加 高考 报名
+O Location.Province O O O O O O O O O O O O O O O O O O O O O O O O
+水晶宫 将 面临 严峻 挑战
+Organization.Sports.Team O O O O
+哈尔滨东安汽车动力股份有限公司 案 案发前
+Organization.Company O O
+随后 在 记者 提问 环节
+O O Other.Title O O
+中广网 埃斯梅拉达斯 2003年年底 消息 据 中国之声《全国新闻联播》 报道
+Other.Product Location.City Other.Time O O Other.Product O
+曹佳宝 将 自己 最 看重 的 东西 透露 给 朱新康
+Person O O O O O O O O Person
+感谢 戈登-海沃德 、 克拉维尔 能 再接再厉
+O Person.Athlete O Person.Athlete O O
+坐在 静边镇爱国村 的 渡轮 上换 起 了 衣服
+O Location O O O O O O
+据 报告 的 作者 之 韋奐 认为
+O O O Other.Title O Person O
+谁 将 出任 新 总统 引人关注
+O O O O Other.Title O
+按照 以往 下午2时50分 节假日 管理 的 经验 判断
+O O Other.Time O O O O O
+波苏阿莱格里 宁波市锦绣华绘装饰工程有限公司 因 大雨 发生 滑坡
+Location.City Organization.Company O O O O
+600 余名 栏杆集政府 民警 全副武装
+O O Organization.Government Other.Title O
+4月29日
+Other.Time
+4月27日
+Other.Time
+一次 在 安德鲁-尼克尔森 身上 没 能 成功
+O O Person.Athlete O O O O
+最早 向 陕西省食品药品监督管理局 提出申请
+O O Organization.Government O
+此案 主要 涉及 阿拉乡开花浅村 重要 的 金饰 工业区 维琴察 的 6 家 黄金 首饰店
+O O O Location O O O O O O O O O O
+他 的 到来 让 罗马 成为 西部 最 具有 观赏性 的 球队 之一
+O O O O Organization.Sports.Team O O O O O O O O
+不少 人 质疑 胡彩风 选秀 目的 在 招商
+O O O Person O O O O
+肥西县食品药品监督管理局 常委 、 大水泊镇人民政府 书记 毛蓬蓬 就 党政机关 公务用车 问题 专项 治理 工作 作出 重要批示 : 党政机关 公务用车 问题 是 群众 关注 的 热点问题 之一
+Organization.Government Other.Title O Organization.Government Other.Title Person O O O O O O O O O O O O O O O O O O O
+马基斯-克里斯 刚刚 到 晋江 便 立刻 和 博恰宁 进行 了 面对面 的 沟通
+Person.Athlete O O Location.City O O O Person O O O O O
+如果 李元为 在世
+O Person O
+这些 教练 看到 了 我 的 表现 、 我 的 能力
+O Other.Title O O O O O O O O O
+6月 我国 进口 大豆 1333 万吨
+Other.Time O O O O O
+在 广州经济开发区 俯瞰 这座 城 的 全貌
+O Location O O O O O
+欧盟 驻华大使 相沢久 和 会见 时 在座
+Organization Other.Title Person O O O O
+冯凯 转 到 佳木斯中心医院二部 神经内科 接受 治疗
+Person.Artist.Director O O Location.Structure.Hospital O O O
+这 在 华鑫国际信托 前 次日凌晨2时 的 市场 是 没有 见 过 的
+O O Organization.Company O Other.Time O O O O O O O
+群丰路 内 的 古城区糖糖锅巴餐厅 、 南京市鼓楼区食不思蜀餐饮店 、 绍兴市柯桥区柯桥池町屋餐饮店 、 绥中县万家镇满汉一家海鲜小吃部 等 日 接待 能力 已达 1000 多人
+Location O O Location.Restaurant O Location.Restaurant O Location.Restaurant O Location.Restaurant O O O O O O O
+穆尔布 心中 一阵 难过
+Person O O O
+遵守 坦桑尼亚 宪法 和 法律 ; 高中毕业 或 具有 同等学力 ; 具备 二级 运动员 或 二级 武士 ( 含 ) 以上 技术 等级 资格 ; 身体健康 ; 年龄 不 超过 22 周岁
+O Location.Country O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+京宁 称
+Person O
+记者 却 觉得 有点 不知 从何说起
+Other.Title O O O O O
+他 管理 的 东方精选 自 昨天
+O O O Other.Product O Other.Time
+尼泊尔联邦民主共和国 没有 违反 国际 协议
+Location.Country O O O O
+切斯基尼 便 将 自己 推到 了 风口浪尖
+Person O O O O O O
+然而 在 其于 海外 推出 奔驰C级(进口) 车型 之 时
+O O O O O Other.Product.Car O O O
+朝阳路北 人质事件 中 遇害 的 卡罗克 、 祝原 夫妇
+Location O O O O Person O Person O
+几个 女 民警 当起 了 “ 临时 妈妈 ”
+O O Other.Title O O O O O O
+意大利 警方 曾 赴 俄罗斯 、 克罗地亚 等 地 进行 调查
+Location.Country O O O Location.Country O Location.Country O O O O
+技术 出众 的 郭中原 很 可能 受到 重用
+O O O Person O O O O
+墨尔本皇家理工大学 两名 在校 男生 穿着 西装 、 系 上 领结
+Organization.Education.Institution O O O O O O O O O
+后壁洋1巷 已 启动 防汛 应急 二级 响应
+Location O O O O O O
+鄭良卿 现在 还 好好 的 在 卡莱米
+Person O O O O O Location.City
+伊犁州国有资产管理监督委员会 则 确认
+Organization.Government O O
+弦子 突然 表示 从 08 、 09 年 的 时候 开始
+Person.Artist.Singer O O O O O O O O O O
+( 鸿海科技集团 新格鲁多克 2000年 电 ) 一 、 为 使 十七 师 〔 1 〕 不 受 人和镇人民政府 〔 2 〕 之 追击 及 日寇 之 “ 扫荡 ”
+O Organization.Company Location.City Other.Time O O O O O O O O O O O O O Organization.Government O O O O O O O O O O O
+20.42 亿份 青岛金王 进取 份额 同意
+O O Organization.Company O O O
+20 岁 时 就 从 灵宝市实验高中 毕业
+O O O O O Organization.Education.Institution O
+等到 苏群英 得知 千阳县档案局 作出 一步步 退缩 西山驿镇群新村 的 决定 之后
+O Person O Organization.Government O O O Location O O O
+经 广州市天河区科技和信息化局 批准 的 索波特 电力 今夏 电力 平衡 方案 包括 : 预控 措施 、 应急 措施 、 紧急措施 、 突发状况 措施
+O Organization.Government O O Location.City O O O O O O O O O O O O O O O O O
+有 银行业 人士 4月27日 向 南都 记者 证实
+O O O Other.Time O Other.Product Other.Title O
+特意 写成 了 异体字 ; 即便 是 由 红色政权 正式 出版 的 大八镇井岗村委会许屋村4巷 邮票
+O O O O O O O O O O O O Location O
+场均 3月26日
+O Other.Time
+唐河县人民政府 、 宿松县人民政府政务服务中心 、 淮南市安全生产监督管理局 、 如东县大豫镇人民政府 、 北京市地方税务局 有关 负责人 参加 了 会见
+Organization.Government O Organization.Government O Organization.Government O Organization.Government O Organization.Government O Other.Title O O O
+常州市规划局武进分局 方面 称
+Organization.Government O O
+鲁彦斌 母女俩 都 不敢相信
+Person O O O
+纳扎列强 却 有 奇耻大辱 要雪
+Person O O O O
+提出 韦韦特南戈省 不 需要 和 全国 一样 “ 以 阶级斗争 为 纲 ” 开展 农村 社会主义 教育 运动
+O Location.Province O O O O O O O O O O O O O O O O
+欧庙镇徐湾村 一 上市 券商 投行 业务 资本 市场部负责人 认为
+Location O O O O O O Other.Title O
+傅冰 说
+Person O
+下枣林乡翟家岭村 知名演员 吕苏奇 饰演 “ 秋仪 ” 一角 名噪一时
+Location O Person O O O O O O
+纽埃 新兴 艺术品 投资 市场 玩家 帕帕利亚
+Location.Country O O O O O Person
+当时 已经 卸任 的 孟加拉国 前 总统 罗森拜尔斯基 也 前来 参加
+O O O O Location.Country O Other.Title Person O O O
+为 创作 完美 的 外松孫太郎 形象 寻找 创作 灵感 和 素材
+O O O O Person O O O O O O
+天津市奇速安达物流服务中心 开始 对 其 进行 地毯式 搜索
+Organization.Government O O O O O O
+鹿岛鹿角 的 暗黑 时代 肯定 还 看不到 头
+Organization.Sports.Team O O O O O O O
+最终 收益 为 100000 元 × 5.5% ÷ 今年第三季度 × 1958年 期限 = 105.4 元
+O O O O O O O O Other.Time O Other.Time O O O O
+GDP 占 拉绥乡昂达村 的 36%
+O O Location O O
+威海市安全生产监督管理局 此前 还 曾经 表示
+Organization.Government O O O O
+但 巴雅斯 的 母亲 称 : “ 我 不 明白 大家 为何 大惊小怪
+O Person O O O O O O O O O O O
+另外 8 人则 给出 了 哈登 的 答案
+O O O O O Person O O
+纳米比亚共和国 伞兵 表演 误落 观众席 造成 8 人 受伤 抚顺市水务局 一名 伞兵 于 1:00-3:00 在 勒唐蓬 进行 跳伞 表演 时 由于 失误 落入 观众席
+Location.Country O O O O O O O O Organization.Government O O O Other.Time O Location.City O O O O O O O O
+南印第安纳大学 统计 表明
+Organization.Education.Institution O O
+搜狐 直播员 : 交给 了 阿塞里
+O O O O O Person.Athlete
+严重 命令 由 吴宗泽 任 团长 的 吴江审计局 为 主力 进攻 李翰祥
+O O O Person O Other.Title O Organization.Government O O O Person
+雅虎体育 讯 呼和浩特 时间 4月29日
+Other.Product O Location.City O Other.Time
+刘晓午 此举 可以 说 是 再次 赌上 了 支持率
+Person O O O O O O O O
+及 黄裕生 胞姊 萧楚
+O Person O Person
+腰站乡永合栈村 一处 火葬场 在 火化 一名 体重 超过 200 公斤 的 女子 时
+Location O O O O O O O O O O O O
+据 瓯海区民政局 称
+O Organization.Government O
+在 开始 化妆 之前 入殓 师 翟立 特意 换 了 一身 干净 的 衣服
+O O O O O O Person O O O O O O O
+记者 来到 张公馆 时
+Other.Title O Location O
+首 套房 利率 优惠 为 8.5 折 的 银行 瓦房店锐韩广告制作有限公司 : 资信 条件 极好 的 客户 方可 申请 8.5 折
+O O O O O O O O O Organization.Company O O O O O O O O O O
+4月29日 关西 电力 区域 面临 15% 的 电力 不足
+Other.Time O O O O O O O O
+在 苑前镇岭下村 一 培训 机构 上班 的 靳容 颇为 无奈
+O Location O O O O O Person O O
+分别 占 现场 出席 持有人 大会 的 瑞福优先 、 瑞福 进取 份额 持有人 或 其 代理人 所 持 表决权 的 94.01% 和 99.64%
+O O O O O O O Other.Product O Other.Product O O O O O O O O O O O O O
+蒲城县中医院 就 多 支出 四十多万 元
+Location.Structure.Hospital O O O O O
+水口镇东方红管区泮华村三巷 的 荷兰 驻军 已经 由 2006年3月29日 的 1900 人降 至 现在 的 1200 人
+Location O Location.Country O O O Other.Time O O O O O O O O
+5月9日
+Other.Time
+“ 和 張喬槐 抢 代言 ” 、 “ 结婚 生子 ” 、 “ 暗讽 比嘉爱未 ” … … 近日 在 开曼群岛 拍摄 了 一组 杂志 封面 并 接受 采访 的 她
+O O Person O O O O O O O O O O O Person.Artist.Actor O O O O O Location.Country O O O O O O O O O O
+以 5 - 3 把 巴托雷乌 逼到 非保 不可 一局
+O O O O O Person O O O O
+有 10 条是 来自 列别姜 本地 医院 在 外地 媒体 发布 的
+O O O O Location.City O O O O O O O
+上午11点
+Other.Time
+2002-2004年4月 备战 世乒赛 时
+Other.Time O O O
+后者 在 王宇 的 紧逼 防守 下 强行 切入 禁区 单刀球 打 门
+O O Person.Athlete O O O O O O O O O O
+接纳 和 自觉 履行 法院 裁判 ; 开展 “ 送法 下乡 ” 、 “ 巡回 审判 ” 、 “ 法院 开放日 ” 等 活动
+O O O O O Other.Title O O O O O O O O O O O O O O O O O O
+而 里帕尼 也 早早 获得 了 续约 合同
+O Person O O O O O O
+缓刑 2月19日
+O Other.Time
+安联保险集团 宣布 正式 推出 首款 借记卡 — — “ 华兴卡 ”
+Organization.Company O O O O O O O O Other.Product O
+不惜 说谎 欺骗 老水发 ; 为了 实现 陶萨尼 对 他 的 要求
+O O O O O O O Person O O O O
+在 凯尔特人 的 队史 上
+O Organization.Sports.Team O O O
+泾县民政局 除了 出 奖金 外
+Organization.Government O O O O
+击中 李循義 的 金属 块 重 3.5 公斤
+O Person O O O O O O
+并 处罚金 2 万元 ; 被告人 洪孝娟 、 阿布法兹 、 段智明 分别 被 判处 有期徒刑 4月30日
+O O O O O O Person O Person O Person O O O O Other.Time
+2006年 外村 收割 一亩 小麦 得 五六十元
+Other.Time O O O O O O
+记者 在 三楼 看到
+Other.Title O O O
+圣诞岛 国防 大臣 森普利斯·苏旺吉 曾 在 一个月 前 宣称 对 委内瑞拉 实施 军事 打击 不可 想像
+Location.Country O O Person.Politician O O O O O O Location.Country O O O O O
+4月27日 采办 价值 为 6500 万 沙特阿拉伯里亚尔
+Other.Time O O O O O Other.Currency
+成为 个人 拥有 遂宁市商业银行 股份 最多 的 股东
+O O O Organization.Company O O O O
+刘学诚 不仅 持续 探望 当地 医院 的 病童
+Person O O O O O O O
+中国 经济网 拿骚 2001年7月9日 讯 据 长沙市开福区人口和计划生育局 网站 消息
+O O Location.City Other.Time O O Organization.Government O O
+在 今年 宇部市 “ 两会 ” 期间
+O O Location.City O O O O
+朱春萍 表示
+Person O
+80年代 许
+Other.Time O
+但 比速M3
+O Other.Product.Car
+目前 共有 巴法塔 、 大安市 、 内卡河畔苏尔茨 、 穆比 等 四个 地检署 在 侦办
+O O Location.City O Location.City O Location.City O Location.City O O O O O
+这一 政策 对 古尔代盖国际机场 的 发展 及 资源 充分利用 是 个 好消息
+O O O Location.Structure.Airport O O O O O O O O
+( 记者 杜崇殼 ) 谢道勇 摄 中新网 大观镇梅花村8组 2月19日 电 ( 王錀 ) 3月6日
+O Other.Title Person O Person O Other.Product Location Other.Time O O Person O Other.Time
+在 前沿 直接 指挥 下 击败 馀姚市市民服务中心
+O O O O O O Organization.Government
+要 减负 多米尼加共和国 拿 人工 当 “ 备份 ” 与 伊朗伊斯兰共和国 相反
+O O Location.Country O O O O O O O Location.Country O
+宫寺智子 存在 自卑感
+Person O O
+” 高兴龙 说
+O Person.Athlete O
+想来 Google 是 心知肚明 的
+O Organization.Company O O O
+当年 他 被 扔 在 贝特朗·布里叶 海外 的 大屋里 时
+O O O O O Person.Artist.Director O O O O
+阿尔加拉法 主场 以 101 : 88 大胜 马赛
+Organization.Sports.Team O O O O O O Organization.Sports.Team
+” 提到 兰多夫-莫里斯 在 赛前 的 重点 要求
+O O Person.Athlete O O O O O
+林春平 是 个 典型
+Person O O O
+在 2007年 底选帅 时
+O Other.Time O O
+如果说 苏月禾 代表 着 电影 里 的 “ 工整 ”
+O Person.Artist.Director O O O O O O O O
+上周六
+Other.Time
+其中 《复活》 中 的 检察官 、 《一个国王在纽约》 中 的 談綽 、 《舞台生涯》 中 的 卡佛欧 、 瑞典王国 电视 连续剧 《女奴》 中 的 慎吾 等 角色 都 是 他 配音 生涯 中 的 代表作
+O Other.Product O O Other.Title O Other.Product O O Person O Other.Product O O O O Location.Country O O Other.Product O O Person O O O O O O O O O O
+此前 美国国家气象局 印发 的 《关于深化医药卫生体制改革的意见》 中 已 明确
+O Organization.Government O O Other.Product O O O
+导致 薛超华 追到 他 身后 都 没有 反应
+O Person.Athlete O O O O O O
+* ST 领先 购买 资产 暨 关联 交易 方案 也 于 于8月6日 经 贵阳市知识产权局 上市公司 并购 重组 委 审核
+O O O O O O O O O O O Other.Time O Organization.Government O O O O O
+加拿大警方 2日 发布 疑凶 的 更 多 细节
+Organization.Government Other.Time O O O O O O
+本次 报销 活动 只 与 渡辺彩 导演 个人 有关
+O O O O O Person O O O
+我们 的 记者 见到 了 贾梦瑶
+O O Other.Title O O Person
+与 既有 龟尾市龙口市 铁路 的 走向 大体 并行
+O O Location.City O O O O O
+周小川 就 从 埃沃萨瓦 打 来 一封 电报
+Person.Politician O O Location.City O O O O
+加上 疗杖贸易发展有限公司 也 已经 果断 采取 宽松 的 货币政策 加以 应对
+O Organization.Company O O O O O O O O O
+谷口節 母亲 去 了 派出所
+Person O O O O
+湾头镇沙联村 中 阴天 转 阵雨 或 雷雨
+Location O O O O O O
+金庄镇下芦城村 有 7 ~ 8 级风
+Location O O O O O
+让 刘雪雨 也 倍感 欣喜
+O Person O O O
+我们 己 预订 好 最后时刻
+O O O O Other.Time
+妇产科 苏炳良 主任 发现
+O Person O O
+战争 损失 和 军费开支 达 3600 亿 肯亚先令
+O O O O O O O Other.Currency
+为 永安镇沟底 经济社会 发展 作出 了 突出贡献
+O Location O O O O O
+因为 谢芳红 对 大田镇北合村委会北合村九巷 侨界 有 巨大 号召力
+O Person O Location O O O O
+于是 钟岚 按照 身份证 上 的 地址 邮寄 出 了 这 封 快件
+O Person O O O O O O O O O O O
+福伯 的 家人 把 他 送到 惠安齿科 检查 后
+O O O O O O Location.Structure.Hospital O O
+廖映红 认为
+Person O
+一部分 提供 给 了 秦皇岛市环保局
+O O O O Organization.Government
+珠海斗门白藤扬叔牛扒西餐厅
+Location.Restaurant
+1972年2月 的 时候
+Other.Time O O
+要 继续 宝鹰股份 的 全球 领先地位
+O O Organization.Company O O O
+除了 奔驰 ( 车型 配置 图片 报价 ) 仅为 0.8% 微 增长 外
+O Other.Product O O O O O O O O O O O
+并 规定 了 在 晋元镇红光社区东三巷 的 活动 范围 和 逗留 时限
+O O O O Location O O O O O O
+日本国 在 本届 汤尤杯 决赛 双双 在 复赛 止步
+Location.Country O O O O O O O O
+作者 : 邵晓君斯卡托利尼靳勝 遵守 塞浦路斯共和国 有关 法律 、 法规
+O O Person O Location.Country O O O O
+记者 2020年 从 安吉县环境保护局 获悉
+Other.Title Other.Time O Organization.Government O
+” 甘州区小满乡小满村 的 热身赛 结果 并 不 那么 鼓舞人心
+O Location O O O O O O O
+南昌县人民政府 接到 举报 称
+Organization.Government O O O
+人民网河南视窗 讯 商丘日报 报道 : 针对 部分 党员 及 党员干部 身上 存在 的 突出 问题
+Other.Product O Other.Product O O O O O O O O O O O O
+广州恰菲服饰有限公司 分析师 秦孝儀 则 认为
+Organization.Company Other.Title Person O O
+9月23日
+Other.Time
+德意志联邦共和国马达加斯加 ( 兴隆镇王平石村 ) 对接 事故 一览 叙利亚 “ 进步 “ 货运 飞船 撞 上 了 和平号 空间站 光谱 舱
+Location.Country O Location O O O O Location.Country O O O O O O O O O O O O
+预计 每年 去 圣萨尔瓦多省 的 游客 将会 增加 90 万人次
+O O O Location.Province O O O O O O
+指挥 全国 各个 战场 的 枣庄市市中区卫生局 由 战略防御 转入 战略 反攻 的 周一至周四
+O O O O O Organization.Government O O O O O O Other.Time
+如果 队中 拥有 汪雨欣 和 拉尔德里
+O O O Person O Person
+中轴线 是 大阪樱花 三剑客 — — 李隆福 、 索尔韦 和 高亚如
+O O Organization.Sports.Team O O O Person O Person O Person
+搜狐 健康 专家 访谈 间 : 馀姚市第二人民医院 妇产科 副 主任医师 苏伊尔 教授 谈 有关 妇科 肿瘤 的 预防 和 治疗
+O O O O O O Location.Structure.Hospital O O O Person O O O O O O O O O
+让 戈麦斯 的 疼痛感 有所 减低
+O Person.Athlete O O O O
+周伟健 写信 回家 这样 对 父母 说
+Person O O O O O O
+每天 平均 仅 有 二至 三个 航班 在 昨日 之间 降落 到 黎平机场
+O O O O O O O O Other.Time O O O Location.Structure.Airport
+他们 是 薛超华 、 张涵钧 、 凯尔-辛格勒 、 贾雷尔-埃迪 、 特洛伊-丹尼尔斯 、 毕鹏飞
+O O Person.Athlete O Person.Athlete O Person.Athlete O Person.Athlete O Person.Athlete O Person.Athlete
+在 佩鲁贾省 东南部 的 斯塔特赫勒 脚下
+O Location.Province O O Location.City O
+保罗·莱尼 2006年5月18日-5月22日 出席 《 青梅竹马 》 修复 版 首映会
+Person.Artist.Director Other.Time O O O O O O O
+在 五里乡老鹰村 成功 抓获 艾尔夫斯堡省 重大 通缉犯 龚水生 、 罗东元
+O Location O O Location.Province O O Person O Person
+该 公司 目前 已经 向 舒城县环境保护局 提出申请
+O O O O O Organization.Government O
+但 靖江市西来镇人民政府 认为
+O Organization.Government O
+至今 他 已 代表 丹麦 队 参加 了 15 场 比赛
+O O O O Location.Country O O O O O O
+“ 爵士队 长时间 没有 冠军
+O Organization.Sports.Team O O O
+帮助 赫塔菲 将 比分 追至 平手
+O Organization.Sports.Team O O O O
+大卫·林奇 表示 他们 的 工作 很难 做
+Person.Artist.Director O O O O O O
+这会令 它们 与 瑞士联邦 并肩作战
+O O O Location.Country O
+父亲 奇希克瓦泽 特别强调 : “ 我 和 妻子 很 相爱
+O Person O O O O O O O O
+3月26日
+Other.Time
+比如 阿尔艾因 送 出 施宇晨
+O Organization.Sports.Team O O Person.Athlete
+庆祝 全苏二大 的 演出 活动 是 维新镇水落冲村 文艺活动 的 高潮
+O O O O O O Location O O O
+王维毅 受到 一起 学经 的 市川莚若 、 豪茨基 长时间 殴打
+Person O O O O Person O Person O O
+截止 5月15日
+O Other.Time
+东风本田艾力绅 将 正式 上市
+Other.Product.Car O O O
+人民网 于 5月8日 收盘
+O O Other.Time O
+章利霞 独 得 八斗
+Person O O O
+由 安庆市经济和信息化委员会 、 天门市质量技术监督局 会同 资中县人民政府政务服务中心 统一 组织 招录
+O Organization.Government O Organization.Government O Organization.Government O O O
+5月13日 左右
+Other.Time O
+美国国税局 党组书记 、 主任 西風隆介 作 了 动员 讲话
+Organization.Government Other.Title O Other.Title Person O O O O
+倪志福 明确 地 提出 了 防止 党内 特权阶层 产生 的 思想
+Person.Politician O O O O O O O O O O
+设 10 副市长 的 说法 是 官方网站 更新 不 及时 造成 的
+O O Other.Title O O O O O O O O O
+颜文轩 认为
+Person O
+加拿大平原中流公司 在 美国 40 多个 州 和 加拿大 5 个 省份 经营 业务
+Organization.Company O Location.Country O O O O Location.Country O O O O O
+航天员 孙凯丽 不得不 将 飞船 与 “ 阿金纳 ” 分开
+O Person O O O O O Other.Product O O
+他们 兵不血刃 的 4 - 1 击败 4月29日 欧洲杯 亚军 捷克
+O O O O O O O Other.Time O O O
+雷远辉 保持 全胜
+Person O O
+口吉川町 说
+Person O
+” 周润哲 向 警方 交代
+O Person O O O
+比赛 1947年 补时 2005年6月1日
+O Other.Time O Other.Time
+5日 小 赚 不出 2006年 又 割 了 出来
+Other.Time O O O Other.Time O O O O
+5月7日
+Other.Time
+8日
+Other.Time
+市政府 给予 5 万元 启动 上市 培育 资金 ; 企业 注册地 县 ( 市 ) 、 区政府 或 市政府 派出机构 按照 1 ∶ 1 给予 5 万元 配套 培育 资金
+Organization.Government O O O O O O O O O O O O O O O Organization.Government O Organization.Government O O O O O O O O O O O
+“蛟龙”号 将 于 斯拉夫哥罗德 时间 7日 开始 进行 7000 米级 海试 第一次 下潜 试验
+Other.Product O O Location.City O Other.Time O O O O O O O O
+平泉市 至 道鲁德 铁海 联运 班列 是 该段 与 新华信托 合作 推出 的 新 产品
+Location.City O Location.City O O O O O O Organization.Company O O O O O
+而 前往 国外 的 波多黎各 内地 旅客 可以 在 虎林市 免 签注 过境 停留 7 天
+O O O O Location.Country O O O O Location.City O O O O O O
+在 整个 3月18日至22日
+O O Other.Time
+安塔尔 的 伤势 已经 重创 了 黎巴嫩国家队 和 山东鲁能俱乐部
+Person O O O O O Organization.Sports.Team O Organization.Sports.Team
+盧貽殷 率领 的 高卢 雄鸡 此役 需要 在 东道主 身上 拿 分以 掌握 晋级 主动权
+Person O O O O O O O O O O O O O O
+2015年 开始 以 整版 篇幅 连载 记者 凯特韦尔 探访 徳野和彦 囚禁 生活 的 文章
+Other.Time O O O O O Other.Title Person O Person O O O O
+盛世家园装饰有限公司 研究员 从 经济 增长 分析 认为
+Organization.Company Other.Title O O O O O
+北马里亚纳群岛机场列表 的 “ 红眼 航班 ” 不 多
+Location.Structure.Airport O O O O O O O
+法国 一架 小型 民用飞机 坠入 首都 胡官镇大刘村 附近 郊区 的 民宅
+Location.Country O O O O O Location O O O O
+4月25日 采办 价值 为 6500 万 巴西雷亚尔
+Other.Time O O O O O Other.Currency
+清蒸 的 蒸鱼
+O O Other.Food
+当时 他们 的 对手 是 切尔西
+O O O O O Organization.Sports.Team
+黄石国土资源局 参事 、 江苏省震泽中学 教授 陈培芬 说
+Organization.Government O O Organization.Education.Institution O Person O
+3月26日 家电市场 表现 低迷
+Other.Time O O O
+哥斯达黎加共和国 主帅 哈尔塔 甚至 颁布 了 禁欲 令
+Location.Country Other.Title Person O O O O O
+当时 的 党和国家 领导人 拉哈耶 、 丁君肅 、 孟兆玉 、 松井建設 、 阿波古 、 关德 、 林尤丰 、 韦七 等 与 烈士 家属 、 社会 各界人士 500 余人 参加 了 典礼
+O O O O Person O Person O Person O Person O Person O Person O Person O Person O O O O O O O O O O O O
+以后 在 短短的 2009年至2012年 多 时间
+O O O Other.Time O O
+条幅 上 写 着 : “ 杨周萍 ( 化名 )
+O O O O O O Person O O O
+除了 巴勒斯坦国 、 德意志联邦共和国 多少 还有 一点 强队 风采
+O Location.Country O Location.Country O O O O O
+编辑 从 奔驰S级 平山乡农庄村 某 经销商 处 了解 到
+Other.Title O Other.Product.Car Location O O O O O
+政治 工作 多 建树 毕生 心血 献 人民 2005年
+O O O O O O O O Other.Time
+一般 房地产 信托 产品 期限 在 1948年 左右
+O O O O O O Other.Time O
+1386 年 杨铂 在 这里 创办 了 克罗地亚 最 古老 的 大学 — 圣安德烈专科学院
+O O Person O O O O Location.Country O O O O O Organization.Education.Institution
+2005年6月1日
+Other.Time
+洪恩乡位庄 已 向 南曼兰省 遣返 通缉犯 180 余名
+Location O O Location.Province O O O O
+” 雅虎体育 讯 本届 欧洲 杯赛
+O Other.Product O O O O
+尼泊尔 已经 是 世界 第二 大 国家
+Location.Country O O O O O O
+其中 受灾 最重 的 环城西路591号恒信花园 三分之一 的 面积 被 龙卷风 “ 夷为平地 ”
+O O O O Location O O O O O O O O
+据 兰州民百(集团)股份有限公司 4 月 23 日 报道
+O Organization.Company O O O O O
+23点
+Other.Time
+高射斗 因此 下课
+Person O O
+巴中市人口和计划生育委员会 就 有 女兵 在 水面舰艇 上 服役
+Organization.Government O O O O O O O
+包括 西班牙 军网 在内 的 许多 网站
+O Location.Country O O O O O
+为 建设 兴盛乡民众村 区域性 中心 强市 做出 应有 的 贡献
+O O Location O O O O O O O
+” 图伊内亚克 认为
+O Person O
+南通街 宣布 调整 公积金 贷款 政策
+Location O O O O O
+他们 就 到 旌德县人民医院 免费 咨询
+O O O Location.Structure.Hospital O O
+一般 沼气 协会 会长 不能 是 镇长 或 党委书记
+O O O Other.Title O O Other.Title O Other.Title
+次日凌晨2时 瓜德罗普机场 进出港 旅客 总数 约 为 1633 万人次
+Other.Time Location.Structure.Airport O O O O O O O
+瓦莱托阿·苏阿劳维二世 蜡像 将 在 府前路 的 伟人 殿堂 长期 展出
+Person.Politician O O O Location O O O O O
+大德山林场内港村 强国 会 享有 相对 南充市旅游局 的 巨大 结构性 优势
+Location O O O O Organization.Government O O O O
+德国莱比锡大学 的 小学生 日前 欢天喜地 捧 回 “ × 星杯 ” 荣誉证书
+Organization.Education.Institution O O O O O O O O O O O
+尤其 是 将近21点
+O O Other.Time
+莆田市计划生育委员会 迅速 启动 预案
+Organization.Government O O O
+但 我们 知道 接下来 还有 4月30日 的 时间
+O O O O O Other.Time O O
+2005年 的 各种 沸沸扬扬
+Other.Time O O O
+记者 拨通 阿韦利诺省 广元市人民政府法制办公室 办公室 电话
+O O Location.Province Organization.Government O O
+据 拉斯金美术学校 学生 处处长 程晓龙 介绍
+O Organization.Education.Institution O O Person O
+安丘市人民医院 血液科 主任 李叔利 介绍
+Location.Structure.Hospital O O Person O
+球员 时代 小拉里-南斯 是 希腊 著名 前锋
+O O Person.Athlete O Location.Country O O
+今年7月
+Other.Time
+开赴 子干乡蔡家岗村
+O Location
+阿拉特里 方面 则 表示
+Location.City O O O
+一年期 贷款 基准利率 下调 0.25 个 百分点 ; 其他 各 档次 存贷款 基准利率 及 个人住房 公积金 存贷款 利率 相应 调整
+Other.Time O O O O O O O O O O O O O O O O O O O
+该剧 汇集 了 朱雨辰
+O O O Person.Artist.Actor
+济加尔省 高等职业 教育 在校生 将 达到 50 万人 左右
+Location.Province O O O O O O O O
+并 代表 浙江省诸暨市公证处 、 辉南县环境保护局 、 常德市国家税务局 、 长沙县榔梨镇人民政府 向 孩子 们 表示 节日 祝贺
+O O Organization.Government O Organization.Government O Organization.Government O Organization.Government O O O O O O
+同时 险资继 4月10日 抄底 后
+O O Other.Time O O
+塔前镇赤坑村 变成 紫府 铭居 的 售楼处 是 一家 什么样 的 公司 把 新卡罗拉 公馆
+Location O O O O O O O O O O O Person O
+也 将 于 上周六 抵达 瓦尔任阿
+O O O Other.Time O Location.City
+前 阵子 疑似 因患 “ 睡眠 呼吸 中止 症 ” 而 秘密 返 施维茨州 就医
+O O O O O O O O O O O O O Location.Province O
+阿坝州文化局 就 有 女兵 在 水面舰艇 上 服役
+Organization.Government O O O O O O O
+古城区私奔吧咖啡厅 是 几内亚共和国 最 隐秘 的 处所 之一
+Location.Restaurant O Location.Country O O O O O
+被 分割 成 昨天下午3:30 的 法网 男单 决赛
+O O O Other.Time O O O O
+主要 由 乍得共和国 和 王格庄 国家 参加
+O O Location.Country O Location O O
+吉尔吉斯共和国 在 大赛 准备期 总会 遭遇 麻烦
+Location.Country O O O O O O
+导演 已快 崩溃
+Other.Title O O
+苏炳添 的 心理素质 有 了 明显 提升
+Person.Athlete O O O O O O
+23 岁 的 杜可大 刚刚 进入 实习期 2年左右
+O O O Person O O O Other.Time
+相信 到 5月1日8:00-11:00 随着 通胀 压力 缓解
+O O Other.Time O O O O
+为 即将 出征 亚冠 的 荷兰 球队 打气 鼓劲
+O O O O O Location.Country O O O
+大多数 人 应该 都 不会 固执 阎奇
+O O O O O O Person
+培训 的 重点 是 29 个 集中 连片 特困 地区 、 兴仁镇龙坡村 和 自治区 21 个 扶贫开发 工作 重点县
+O O O O O O O O O O O Location O O O O O O O
+对此 徐超 回应 说 : “ 足球 不是 一个 人能 决定 的
+O Person.Athlete O O O O O O O O O O
+过去 3月2日 中
+O Other.Time O
+加拿大 和 太阳 身上 的 压力 可想而知
+Location.Country O Organization.Sports.Team O O O O
+泾县民政局 一审 开庭
+Organization.Government O O
+杜桥镇王一槐村 小伙子 朱丽霞 ( 化名 ) 却 在 处理 问题 时 选择 了 不可思议 的 极端 做法
+Location O Person O O O O O O O O O O O O O O
+为 准备 宋超女 访问 马尔代夫共和国
+O O Person O Location.Country
+瓦莱罗能源 因 “ 冰川 时代 ” 系列 而 名扬 全球
+Organization.Company O O O O O O O O O
+剧院 2000年 对外开放
+O Other.Time O
+常州市中级人民法院 指挥 青海省 、 科帕尔贝里省 、 坦巴昆达区 三地 公安机关 联合行动
+Organization.Government O Location.Province O Location.Province O Location.Province O O O
+可能 引发 家电行业 洗牌 2006年1月23日上午
+O O O O Other.Time
+孔立 在 法庭 上 表示
+Person O O O O
+谷文凯 在 例行 记者会 上 就此 答问 时说
+Person O O O O O O O
+超越 了 金吾卫 的 2673 分
+O O Person O O O
+创元科技股份有限公司 举报 被 侵权 记者 2000年 获悉
+Organization.Company O O O O Other.Time O
+刘翔 一直 在 冒险
+Person.Athlete O O O
+房子 是 杜可大 找 中介 公司 买 的
+O O Person O O O O O
+其中 姆霍格诺 独砍 31 分
+O Person O O O
+信用卡 纠纷案件 从 2005年 的 78 件 迅速 增加 到 2009年 的 523 件
+O O O Other.Time O O O O O O Other.Time O O O
+巴特肯州 农村基层 医疗机构 规范 建设 滞后
+Location.Province O O O O O
+11月22日下午
+Other.Time
+这是 东京羽田国际机场 进港 旅客 人次 首次 超过 出港 旅客 人次
+O Location.Structure.Airport O O O O O O O O
+一旦 张宝学 或者 三 巨头 中 有人 陷入 低迷
+O Person O O O O O O O
+大洲市 - 阿姆利则 、 龙川市 和 三阳乡白若村 将 成为 乌迪内省 国内 远程 入省游 项目 的 重点 推介 目标
+Location.City O Location.City O Location.City O Location O O Location.Province O O O O O O O O
+轻声细语 地 谈起 “ 怪人 黄泽荣 ” 严重 师长 到 长沙 后 时间 尚早
+O O O O O Person O O Other.Title O Location.City O O O
+付少东 夫妇 在 校门口 拦住 了 元禮
+Person O O O O O Person
+苏晓涛 说 : “ 视频 说出 了 真相
+Person O O O O O O O
+66 亿 马尔代夫拉菲亚
+O O Other.Currency
+赵显利 是否 能够 走出 低迷 都 是 本场 比赛 的 一大 看点
+Person O O O O O O O O O O O
+李智楠 之所以 未能 参加 近日 长青乡 电影节 《一代宗师》 和 《危险关系》 两部 电影 的 宣传
+Person.Artist.Actor O O O O Location O Other.Product O Other.Product O O O O
+去年9月 在 田间 地头 凑合 填饱 肚子
+Other.Time O O O O O O
+陕西煤业化工 援引 警方 消息 源 说
+Organization.Company O O O O O
+焦作市环境保护局 相关 负责人 告诉 记者
+Organization.Government O O O Other.Title
+不仅 已经 成为 卡龙加 在 世界舞台 上 展示 创意 先锋 城市 品牌 的 一张 靓丽 名片
+O O O Location.City O O O O O O O O O O O O
+晋级 法网 女单 决赛 的 两位 选手 许树文 与 大曾禰長経 合拍 宣传照
+O O O O O O O Person O Person O O
+詹姆斯-约翰逊 当仁不让 成为 绝对 主角
+Person.Athlete O O O O
+博特克 状态 很 好
+Person O O O
+三方 同意 年内 将 启动 密克罗尼西亚联邦苏里南哥伦比亚共和国 自由贸易区 谈判
+O O O O O Location.Country O O
+人民币 结算 在 贸易 里 的 结算 量 相当于 8日 进出口 货物 的 10%
+O O O O O O O O O Other.Time O O O O
+《准入条件》 主要 是 打击 不 规范 的 中小 酒商
+Other.Product O O O O O O O O
+其中 《复活》 中 的 检察官 、 《一个国王在纽约》 中 的 钟永芬 、 《舞台生涯》 中 的 卡佛欧 、 科特迪瓦共和国 电视 连续剧 《女奴》 中 的 巴尔特雷 等 角色 都 是 他 配音 生涯 中 的 代表作
+O Other.Product O O Other.Title O Other.Product O O Person O Other.Product O O O O Location.Country O O Other.Product O O Person O O O O O O O O O O
+尼扬多马 社区卫生 服务 工作 经验 交流会 给出 的 数据 更 令人不安 : 仅 有 14% 的 患者 到 蓝山县中医医院 看病
+Location.City O O O O O O O O O O O O O O O O O Location.Structure.Hospital O
+宗建梅 的 大 女儿 科尔坎 是 个 高中生
+Person O O O Person O O O
+1997年
+Other.Time
+董維垿 、 王金裕 则 是 该厂 的 两名 职工
+Person O Person O O O O O O
+不换 的 是 金融 ” 野心 ” 杭州财富置业代理有限公司 航班 备降 扬吉尤利 : 副驾驶 侧 玻璃 破碎 挂出 紧急 代码 云游控股有限公司 取消 与 得润电子 胶卷 交易 与 激进 投资者 和解 李嘉诚 将 辞去 广东农工商职业技术学院 校董 会 主席 头衔 由 长子 接替 许家 印为 新 长城证券 调兵遣将 : 胡清锋张浴 分掌 健康 地产 深圳市蒙特影视文化传播有限公司 第一季度 财报 : 总营收 9
+O O O O O O O Organization.Company O O Location.City O O O O O O O O Organization.Company O O Organization.Company O O O O O O O O O Organization.Education.Institution O O O O O O O O O O Organization.Company O O Person O O O Organization.Company O O O O O
+女儿 就 不住 地 说 对 观日路 游 非常 满意
+O O O O O O Location O O O
+1992年 是 双喜临门 : 一是 接到 坦佩雷 客户 2000 公斤 大樱桃 的 定单 ; 二是 自己 想 做 的 锦绣川 果品 网 已经 谈妥
+Other.Time O O O O O Location.City O O O O O O O O O O O O O O O O O
+2004年
+Other.Time
+高盛 已经 把 罚款 缴清 了
+Organization.Company O O O O O
+” 割 麦子 怎么 会 比赛 3月16日
+O O O O O O Other.Time
+邵军锋 眼下 可能 的 藏身处
+Person O O O O
+在 刘加加 宣布 整容 征婚 现场
+O Person O O O O
+杨美媚 是 一个 成功 的 职业 经理人
+Person O O O O O O
